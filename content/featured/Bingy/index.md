@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Bingy'
-cover: './octoprofile.png'
+cover: './poster.png'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://bingy.io'
 tech:

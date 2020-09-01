@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Hirezen'
-cover: './halcyon.png'
+cover: './otherhire.png'
 external: 'hirezen.in'
 tech:
   - React JS

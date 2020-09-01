@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Teachzy'
-cover: './demo.png'
+cover: './othe.png'
 external: 'https://teachzy.in'
 tech:
   - React Native
