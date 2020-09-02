@@ -4,9 +4,9 @@ module.exports = {
     'Mayank Bajaj is a software engineer based in New Delhi, MA who specializes in building exceptional websites, mobile applications, and everything in between.',
   siteKeywords:
     'Mayank Bajaj, Mayank, Bajaj, NSIT, NSUT, software engineer, front-end engineer, web developer, javascript, delhi, india',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://mayank.codes/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-177142370-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Mayank Bajaj',
   location: 'New Delhi, India',
